@@ -8,5 +8,4 @@ cd $3;
 cp $3$2 $3$2-$4;
 echo $3;
 ls;
-#/home/buzgalbraith/school/spring_2023/probaility-theroy-2
-#/home/buzgalbraith/school/spring_2023/probaility-theroy-2/notes/week_1/notes.tex
+# bash latex_convert.bash /home/buzgalbraith/school/spring_2023/probaility-theroy-2  notes.tex /home/buzgalbraith/school/spring_2023/probaility-theroy-2/notes/week_1/ overleaf

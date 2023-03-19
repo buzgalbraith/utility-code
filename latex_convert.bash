@@ -1,5 +1,4 @@
- #!/bin/sh
-# This is a comment!
+#!/bin/sh
 echo "repo path: $1";
 echo "file name" $2 
 echo "file directory: $3";

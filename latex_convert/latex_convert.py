@@ -10,7 +10,7 @@ except:
 if(local!="local" and local!="overleaf"):
     raise Exception("must specify if is local or on overleaf") 
 
-
+print("python started ")
 # read the .tex file, and modify the lines
 with fileinput.input(file_directory+file_name+"-"+local+".tex", inplace=True) as f :
     for line in f:

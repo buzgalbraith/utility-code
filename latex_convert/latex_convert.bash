@@ -23,3 +23,5 @@ then
     rm -r $2-$4.out
 fi
 
+
+#bash latex_convert.bash /home/buzgalbraith/school/spring_2023/probaility-theroy-2 hw3 /home/buzgalbraith/school/spring_2023/probaility-theroy-2/homework/homework_3 local

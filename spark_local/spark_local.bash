@@ -1,7 +1,7 @@
 #!/bin/sh
 ## starts up or shuts down local bash server 
 ## takes one argument start or stop
-echo "$1+ing local spark server";
+echo "$1ing local spark server";
 start_or_shutodwn="$1"
 if [ "start" == "$start_or_shutodwn" ] ;
 then

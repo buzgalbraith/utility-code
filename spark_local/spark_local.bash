@@ -5,7 +5,6 @@ echo "$1ing local spark server";
 start_or_shutodwn="$1"
 if [ "start" == "$start_or_shutodwn" ] ;
 then
-    echo $SPARK_HOME
     cd $SPARK_HOME
     ./sbin/start-master.sh
     ./sbin/start-worker.sh spark://ubuntu1:7077

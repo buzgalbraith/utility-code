@@ -24,4 +24,4 @@ then
 fi
 
 
-#bash latex_convert.bash /home/buzgalbraith/school/spring_2023/probaility-theroy-2 hw3 /home/buzgalbraith/school/spring_2023/probaility-theroy-2/homework/homework_3 local
+#bash latex_convert.bash /home/buzgalbraith/work/school/spring_2023/probaility-theroy-2-2023 notes /home/buzgalbraith/work/school/spring_2023/probaility-theroy-2-2023/notes/week_7/vedio_1 overleaf

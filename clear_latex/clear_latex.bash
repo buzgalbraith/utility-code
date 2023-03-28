@@ -24,4 +24,5 @@ then
 ## this is the file that keeps everyhting in sync. 
 rm -r $1/$2.synctex.gz
 fi
-bash clear_latex.bash /home/buzgalbraith/work/school/spring_2023/Machine_Learning_spring_2023/homework/homework_4/ hw4 done
+#bash clear_latex.bash /home/buzgalbraith/work/school/spring_2023/Machine_Learning_spring_2023/homework/homework_4/ hw4 done
+#bash clear_latex.bash /home/buzgalbraith/work/school/spring_2023/probaility-theroy-2-2023/notes/week_7/vedio_1 notes done
